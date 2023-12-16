@@ -1,3 +1,4 @@
 # analysis-of-bacterial-genome
 
-This project analyses the DNA sequence of ''.
+Looking into the DNA sequence of Mycoplasmoides genitalium M2321. 
+
